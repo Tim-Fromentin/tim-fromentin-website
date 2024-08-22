@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://tim-fromentin.website/pages/AllProject.php</loc>
+        <lastmod>2005-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+<url>
+      <loc>https://tim-fromentin.website/pages/project.php?id=5</loc>
+      <lastmod>2005-01-01</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.5</priority>
+</url>
+<url>
+      <loc>https://tim-fromentin.website/pages/project.php?id=8</loc>
+      <lastmod>2005-01-01</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.5</priority>
+</url>
+<url>
+      <loc>https://tim-fromentin.website/pages/project.php?id=9</loc>
+      <lastmod>2005-01-01</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.5</priority>
+</url>
+<url>
+      <loc>https://tim-fromentin.website/pages/project.php?id=6</loc>
+      <lastmod>2005-01-01</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.5</priority>
+</url>
+<url>
+      <loc>https://tim-fromentin.website/pages/project.php?id=7</loc>
+      <lastmod>2005-01-01</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.5</priority>
+</url>
+<url>
+      <loc>https://tim-fromentin.website/pages/propos.html</loc>
+      <lastmod>2005-01-01</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.5</priority>
+</url>
+<url>
+      <loc>https://tim-fromentin.website/pages/services.html</loc>
+      <lastmod>2005-01-01</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.5</priority>
+</url>
+<url>
+      <loc>https://tim-fromentin.website/pages/contact.html</loc>
+      <lastmod>2005-01-01</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.5</priority>
+</url>
+<url>
+      <loc>https://tim-fromentin.website/pages/blog.php</loc>
+      <lastmod>2005-01-01</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+</url>
+<url>
+      <loc>https://tim-fromentin.website/pages/article.php?id=2</loc>
+      <lastmod>2005-01-01</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.5</priority>
+</url>
+<url>
+      <loc>https://tim-fromentin.website/pages/article.php?id=3</loc>
+      <lastmod>2005-01-01</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.5</priority>
+</url>
+<url>
+      <loc>https://tim-fromentin.website/pages/devis.php</loc>
+      <lastmod>2005-01-01</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.5</priority>
+</url>
+<url>
+      <loc>https://tim-fromentin.website/pages/mentions.html</loc>
+      <lastmod>2005-01-01</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.5</priority>
+</url>
+<url>
+      <loc>https://tim-fromentin.website/index.php</loc>
+      <lastmod>2005-01-01</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>1.0</priority>
+</url>
+</urlset>
