@@ -69,7 +69,7 @@ include '../../public_html/functions_56k99TfM5ZOj/function_devis_970VcSCmgvgnubZ
                 <input type="checkbox" name="form_condition" id="form_condition" value="oui">
             </div>
 
-            <div class="g-recaptcha" data-sitekey="6LdNbHQpAAAAAJw-p6pLA4rqR66zmIUJtfUoBqBQ"></div>
+            <div class="g-recaptcha" data-sitekey=""></div>
         <?php
 
 if(isset($errormsg)) {

@@ -32,7 +32,7 @@ $successmsg = '';
             $insertDevis = $conn->prepare('INSERT INTO dev_devis (devis_first_name, devis_last_name, devis_message, devis_email, devis_tel, devis_company,devis_type_company, devis_type_site, devis_design, devis_date_send, devis_condition) VALUES (?,?,?,?,?,?,?,?,?,?,?)');
             $insertDevis->execute(array($devis_first_name, $devis_last_name,$devis_message, $devis_email, $devis_tel, $devis_company,$devis_type_company, $devis_type_site, $devis_design, $devis_date_send, $devis_condition));
 
-            $to = "contact@tim-fromentin.website";
+            $to = "";
             $subject = "Nouveau devis soumis";
             $message = "Un nouveau devis a été soumis avec les détails suivants:\n\n";
             $message .= "Nom: $devis_first_name\n";

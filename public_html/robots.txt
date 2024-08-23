@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: /functions_56k99TfM5ZOj
-Disallow: /portfolio
-
-# Allow all pages in the /pages/ directory
-Allow: /pages/

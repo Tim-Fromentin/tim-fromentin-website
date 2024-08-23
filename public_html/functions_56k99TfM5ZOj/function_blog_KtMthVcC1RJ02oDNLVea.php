@@ -1,5 +1,5 @@
 <?php
-include_once "conn_db_apie_pNA9530cVnzI.php";
+include_once "";
 
 function takeAllarticle() {
     global $conn;

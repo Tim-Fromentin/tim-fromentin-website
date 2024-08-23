@@ -1,9 +1,9 @@
 <?php
 // Informations de connexion à la base de données
 $hostname = "localhost";
-$username = "u748661780_admin_01_tfrmt";
-$password = "a0hQ34t294du1LfF67fK";
-$dbname = "u748661780_db_dev_tfr";
+$username = "";
+$password = "";
+$dbname = "";
 
 // Connexion à la base de données avec PDO
 try {
